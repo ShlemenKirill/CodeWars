@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NUnit.Framework;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 
@@ -24,7 +25,8 @@ namespace No_oddities_here
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Assert.AreEqual(new int[] { 2, 4 }, Program.NoOdds(new int[] { 1, 2, 3, 4, 5 }));
+            
         }
     }
 }
