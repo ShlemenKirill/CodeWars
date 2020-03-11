@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Two Oldest Ages</AssemblyName>
+    <RootNamespace>Two Oldest Ages</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Кирилл\Desktop\CodeWars\Two Oldest Ages.cs" Link="Two Oldest Ages.cs" />
+  </ItemGroup>
+
+</Project>
