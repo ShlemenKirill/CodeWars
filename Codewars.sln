@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "No oddities here", "No oddi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum of Minimums!", "Sum of Minimums!\Sum of Minimums!.csproj", "{8A4F3543-9A8E-4638-8017-EAD2F23D4AC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the first non-consecutive number", "Find the first non-consecutive number\Find the first non-consecutive number.csproj", "{110ABAAC-1D63-48DA-8EF6-F5682B8F78A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find the first non-consecutive number", "Find the first non-consecutive number\Find the first non-consecutive number.csproj", "{110ABAAC-1D63-48DA-8EF6-F5682B8F78A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How good are you really", "How good are you really\How good are you really.csproj", "{BC98CF60-06DA-4305-AB54-4425BE36E8BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{110ABAAC-1D63-48DA-8EF6-F5682B8F78A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{110ABAAC-1D63-48DA-8EF6-F5682B8F78A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{110ABAAC-1D63-48DA-8EF6-F5682B8F78A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC98CF60-06DA-4305-AB54-4425BE36E8BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC98CF60-06DA-4305-AB54-4425BE36E8BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC98CF60-06DA-4305-AB54-4425BE36E8BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC98CF60-06DA-4305-AB54-4425BE36E8BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
