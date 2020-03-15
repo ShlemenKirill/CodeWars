@@ -11,12 +11,18 @@ namespace List_Filtering
     {
         public static IEnumerable<int> GetIntegersFromList(List<object> listOfItems)
         {
-            Regex regex = new Regex(@"\d");
-            string a = listOfItems.ToString;
-            IEnumerable<int> evens = from i in listOfItems
-                                     where i => regex
-                                     select i;
-            return evens;
+            //List<object> list = new List<object>();
+            List<int> list = new List<int>();
+            foreach (var aPart in listOfItems)
+            {                
+                if (aPart.GetType() == typeof(Int32))
+                {
+                    list.Add(Convert.ToInt32(aPart));
+                }               
+
+            }           
+               
+            return list;
         }
         static void Main(string[] args)
         {
