@@ -23,11 +23,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Count the Monkeys!", "Count
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "List Filtering", "List Filtering\List Filtering.csproj", "{5018BB27-F648-4754-AAA1-7E23D08409BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A Rule of Divisibility by 7", "A Rule of Divisibility by 7\A Rule of Divisibility by 7.csproj", "{03F0A2E1-EBE8-4DB4-816E-7A9D8B21EED0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A Rule of Divisibility by 7", "A Rule of Divisibility by 7\A Rule of Divisibility by 7.csproj", "{03F0A2E1-EBE8-4DB4-816E-7A9D8B21EED0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort the odd", "Sort the odd\Sort the odd.csproj", "{B813F4D8-2C27-4A9F-BB38-C7294085E0D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sort the odd", "Sort the odd\Sort the odd.csproj", "{B813F4D8-2C27-4A9F-BB38-C7294085E0D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LateRide", "LateRide\LateRide.csproj", "{F1F663EE-8D5F-424D-AB43-9027B48EAB4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LateRide", "LateRide\LateRide.csproj", "{F1F663EE-8D5F-424D-AB43-9027B48EAB4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breaking chocolate problem", "Breaking chocolate problem\Breaking chocolate problem.csproj", "{F2D11356-E5AF-4B6C-869E-71A1F8C9AED8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{F1F663EE-8D5F-424D-AB43-9027B48EAB4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1F663EE-8D5F-424D-AB43-9027B48EAB4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1F663EE-8D5F-424D-AB43-9027B48EAB4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2D11356-E5AF-4B6C-869E-71A1F8C9AED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2D11356-E5AF-4B6C-869E-71A1F8C9AED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2D11356-E5AF-4B6C-869E-71A1F8C9AED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2D11356-E5AF-4B6C-869E-71A1F8C9AED8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
