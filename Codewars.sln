@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number of Decimal Digits", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alternate capitalization", "Alternate capitalization\Alternate capitalization.csproj", "{67C3F89A-087F-465E-99DC-B2AE856D42B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PI approximation", "PI approximation\PI approximation.csproj", "{399AAFE7-3724-4DA5-9663-39EB6CD1E083}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{67C3F89A-087F-465E-99DC-B2AE856D42B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67C3F89A-087F-465E-99DC-B2AE856D42B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67C3F89A-087F-465E-99DC-B2AE856D42B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{399AAFE7-3724-4DA5-9663-39EB6CD1E083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{399AAFE7-3724-4DA5-9663-39EB6CD1E083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{399AAFE7-3724-4DA5-9663-39EB6CD1E083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{399AAFE7-3724-4DA5-9663-39EB6CD1E083}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
