@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PI approximation", "PI appr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Are they the same", "Are they the same\Are they the same.csproj", "{0ACFC08A-D288-445B-A14F-5470DFF4273C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backwards Read Primes", "Backwards Read Primes\Backwards Read Primes.csproj", "{01285837-687D-4900-9185-63BEC3ED4060}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{0ACFC08A-D288-445B-A14F-5470DFF4273C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0ACFC08A-D288-445B-A14F-5470DFF4273C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0ACFC08A-D288-445B-A14F-5470DFF4273C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01285837-687D-4900-9185-63BEC3ED4060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01285837-687D-4900-9185-63BEC3ED4060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01285837-687D-4900-9185-63BEC3ED4060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01285837-687D-4900-9185-63BEC3ED4060}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
